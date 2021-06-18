@@ -40,16 +40,6 @@ a :hover{
   transform: translateY(-10px);
   transition-duration: 0.5s;
 }
-.home {
-  padding: 100px 0 20px 0;
-  text-align: center;
-}
-.home a {
-  font-size: 30px;
-  color: #000;
-  text-decoration: none;
-}
-
 @media screen and (max-width: 480px) {
   h1 {
     font-size: 35px;
